@@ -1,1 +1,1 @@
-This is a very basic car game. You can start/stop the game whit "Space", and reset it/change the color of your car  whith "Enter". This game even saves your highest score! It is unfortunatly only compatible whith PC-s, and devices whith a keyboard.
+This is a very basic car game. You can start/stop the game whit "Space", and reset it/change the color of your car  whith "Enter". This game even saves your highest score! It is unfortunatly only compatible whith PC-s, and devices whith a keyboard. (Controls: a/d, or Right/Left arrows)
